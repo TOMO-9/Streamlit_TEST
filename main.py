@@ -1,7 +1,7 @@
 import streamlit as st # フロントエンドを扱うstreamlitの機能をインポート
 import requests # リクエストするための機能をインポート
 from datetime import datetime # 現在時刻などの時間を扱う機能をインポート
-import pandas as pd # データフレームを扱う機能をインポート
+import pandas as pd # データフレームを扱う機pi能をインポート
 
 # 選択肢を作成
 city_code_list = {
